@@ -17,11 +17,11 @@
       "Contribution_UI - Dataset(CSV)_dataset_1606514296763"
     ],
     
-    "License and Use Rights": "OpenSource",
-    "Last Updated": "Nov 23 2020",
-    "Contact": "abc@mailinator.com",
-    "Preferred Platform": "OpenShift",
-    "Usage example": "",
-    "Managed By": "Edge Dev"
+    "License and Use Rights": ["OpenSource"],
+    "Last Updated": ["Nov 23 2020"],
+    "Contact": ["abc@mailinator.com"],
+    "Preferred Platform": ["OpenShift"],
+    "Usage example": [""],
+    "Managed By": ["Edge Dev"]
   }
 }
