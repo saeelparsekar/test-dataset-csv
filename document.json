@@ -1,0 +1,33 @@
+{
+  "name": "Contribution UI - Dataset(CSV)",
+  "description": "Test dataset created from contribution UI",
+  "logo": "_images/not-authorized.png",
+  "has_supporting_content": false,
+  "de_catalog_id": "Contribution_UI - Dataset(CSV)_dataset_1606514296763",
+  "source_repo": "https://github.com/datasets/covid-19.git",
+  "use_explorer_dataset": false,
+  "explorer_catalog_id": "",
+  "is_s3_type": "",
+  "buckets": [],
+  "meta": {
+    "Install time": [
+      "2 minutes"
+    ],
+    "Type": [
+      "Dataset"
+    ],
+    "Dataset": [
+      ""
+    ],
+    "Catalog Id": [
+      "Contribution_UI - Dataset(CSV)_dataset_1606514296763"
+    ],
+    "Buckets": [],
+    "License and Use Rights": "OpenSource",
+    "Last Updated": "Nov 23 2020",
+    "Contact": "abc@mailinator.com",
+    "Preferred Platform": "OpenShift",
+    "Usage example": "",
+    "Managed By": "Edge Dev"
+  }
+}

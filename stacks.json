@@ -1,0 +1,16 @@
+{
+  "title": "Contribution UI - Dataset(CSV)",
+  "description": "Test dataset created from contribution UI",
+  "logo": "_images/not-authorized.png",
+  "enabled": true,
+  "category_label": [
+    "Dataset"
+  ],
+  "tag": [
+    "CSV"
+  ],
+  "de_catalog_id": "Contribution_UI - Dataset(CSV)_dataset_1606514296763",
+  "git_url": "",
+  "git_commit": "",
+  "installTime": "2"
+}
